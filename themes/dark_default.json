@@ -1,0 +1,58 @@
+{
+    "comment" : {
+        "color"  : "#6A9955",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "control" : {
+        "color"  : "#C586C0",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "keyword" : {
+        "color"  : "#569CD6",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "classname" : {
+        "color"  : "#4EC9B0",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "funcname" : {
+        "color"  : "#DCDCAA",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "argument" : {
+        "color"  : "#9CDCFE",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "string" : {
+        "color"  : "#CE9178",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "number" : {
+        "color"  : "#B5CEA8",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    }
+}
