@@ -1,5 +1,6 @@
 # PythonSyntaxHighlighter
 Python syntax highlighter for HTML.
+
 Usage : `python app.py [-h] [-s style] [-l line_start] [--nolinenumber] [--debug] file`
 
 ## TODO
