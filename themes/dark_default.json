@@ -1,11 +1,4 @@
 {
-    "comment" : {
-        "color"  : "#6A9955",
-        "bold"   : "False",
-        "italic" : "False",
-        "strike" : "False"
-
-    },
     "control" : {
         "color"  : "#C586C0",
         "bold"   : "False",
@@ -20,21 +13,21 @@
         "strike" : "False"
 
     },
-    "classname" : {
-        "color"  : "#4EC9B0",
-        "bold"   : "False",
-        "italic" : "False",
-        "strike" : "False"
-
-    },
-    "funcname" : {
+    "function" : {
         "color"  : "#DCDCAA",
         "bold"   : "False",
         "italic" : "False",
         "strike" : "False"
 
     },
-    "argument" : {
+    "type" : {
+        "color"  : "#4EC9B0",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "variable" : {
         "color"  : "#9CDCFE",
         "bold"   : "False",
         "italic" : "False",
@@ -48,8 +41,29 @@
         "strike" : "False"
 
     },
+    "string_raw" : {
+        "color"  : "#D16969",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "string_esc" : {
+        "color"  : "#D7BA7D",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
     "number" : {
         "color"  : "#B5CEA8",
+        "bold"   : "False",
+        "italic" : "False",
+        "strike" : "False"
+
+    },
+    "comment" : {
+        "color"  : "#6A9955",
         "bold"   : "False",
         "italic" : "False",
         "strike" : "False"
